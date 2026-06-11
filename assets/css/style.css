@@ -234,13 +234,20 @@ a {
 }
 
 .home-link-button:hover,
-.home-link-button:focus-visible {
+.home-link-button:focus-visible,
+.home-link-button:active {
   color: var(--color-surface);
   background: var(--color-earth-dark);
 }
 
 .home-link-button.dark {
   color: var(--color-earth-dark);
+}
+
+.home-link-button.dark:hover,
+.home-link-button.dark:focus-visible,
+.home-link-button.dark:active {
+  color: var(--color-surface);
 }
 
 .section {
