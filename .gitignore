@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+desktop.ini
+node_modules/
+dist/
+build/
+.env
+.env.*
+*.log
+_photo_source/
+_article_source/
