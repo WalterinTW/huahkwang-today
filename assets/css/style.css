@@ -184,8 +184,8 @@ a {
 
 .hero-overlay {
   background:
-    linear-gradient(90deg, rgba(40, 33, 26, 0.46), rgba(40, 33, 26, 0.2) 58%, rgba(40, 33, 26, 0.06)),
-    linear-gradient(0deg, rgba(40, 33, 26, 0.34), rgba(40, 33, 26, 0.04));
+    linear-gradient(90deg, rgba(40, 33, 26, 0.28), rgba(40, 33, 26, 0.12) 58%, rgba(40, 33, 26, 0.03)),
+    linear-gradient(0deg, rgba(40, 33, 26, 0.22), rgba(40, 33, 26, 0.02));
 }
 
 .hero-content {
@@ -514,8 +514,8 @@ a {
 
   .hero-overlay {
     background:
-      linear-gradient(0deg, rgba(40, 33, 26, 0.44), rgba(40, 33, 26, 0.12)),
-      linear-gradient(90deg, rgba(40, 33, 26, 0.36), rgba(40, 33, 26, 0.12));
+      linear-gradient(0deg, rgba(40, 33, 26, 0.28), rgba(40, 33, 26, 0.06)),
+      linear-gradient(90deg, rgba(40, 33, 26, 0.22), rgba(40, 33, 26, 0.06));
   }
 
   .hero-content {
